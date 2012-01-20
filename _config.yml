@@ -10,12 +10,12 @@ var:
   rss_path: /atom.xml
 
 production_url : http://username.github.com # or your custom domain name
-title : Jekyll Bootstrap
+title : Spark Xiao
 
 author :
-  name : Name Lastname
-  email : blah@email.test
-  github : username
+  name : Spark Xiao
+  email : sparkxxf@gmail.com
+  github : sparkxxf
   twitter : username
   feedbuder : feedname
 
